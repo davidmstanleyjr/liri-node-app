@@ -105,7 +105,7 @@ var getMovieTitle = function(movieTitle) {
     }
   
     var omdbURL =
-      "http://www.omdbapi.com/?t=" + movieTitle + "&y=&plot=full&tomatoes=true&apikey=trilogy";
+      "http://www.omdbapi.com/?t=" + movieTitle + "&y=&plot=short&apikey=trilogy";
   
     axios.get(omdbURL).then(
       function(response) {
