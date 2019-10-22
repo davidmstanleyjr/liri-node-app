@@ -24,7 +24,7 @@ and there upcoming concert data will appear.
 
 Thanks and have fun.
 
-![screenshot]("liri snip 2.PNG")
-![screenshot]("liri snip 3.PNG")
-![screenshot]("liri snip 4.PNG")
-![screenshot]("liri snip 5.PNG")
+![screenshot](images\liri-snip-2.PNG)
+![screenshot](images\liri-snip-3.PNG)
+![screenshot](images\liri-snip-4.PNG)
+![screenshot](images\liri-snip-5.PNG)
