@@ -22,4 +22,6 @@ node liri.js concert-this Migos
 
 and there upcoming concert data will appear.
 
+Check the images folder to see screenshots of the working app.
+
 Thanks and have fun.
