@@ -25,3 +25,17 @@ and there upcoming concert data will appear.
 Check the images folder to see screenshots of the working app.
 
 Thanks and have fun.
+
+# Screenshots
+
+![Screenshot 1](images/liri-snip-2.PNG)
+![Screenshot 2](images/liri-snip-3.PNG)
+![Screenshot 3](images/liri-snip-4.PNG)
+![Screenshot 4](images/liri-snip-5.PNG)
+![Screenshot 5](images/liri-snip-6.PNG)
+![Screenshot 6](images/liri-snip-7.PNG)
+
+
+
+
+
